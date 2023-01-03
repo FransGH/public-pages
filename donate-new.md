@@ -1,7 +1,12 @@
 
 MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary good. MakeSoil can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing, people-unifying movement.
 
+{{STRIPE}}
 ### Donate with Apple Pay
+This is the easiest way to donate. 
+
+{{STRIPE_BUTTON}}
+
 {{STRIPE}}
 
 ### Have Amazon Donate on Your Behalf
