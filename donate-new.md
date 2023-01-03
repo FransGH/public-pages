@@ -6,9 +6,7 @@ MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary goo
 This is the easiest way to donate. 
 
 {{STRIPE_BUTTON}}
-
 {{STRIPE}}
-
 ### Have Amazon Donate on Your Behalf
 When you shop at Amazon, you can direct a portion of **Amazon's profits** to supporting MakeSoil — at absolutely _no cost to you_. It really adds up, so if you want to help the Planet with every purchase, please take 2 mins to do this now!
 
